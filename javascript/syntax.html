@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	//define attrivutes / variables
+	var numberVar=100
+	var stringVar="String"
+	var booleanVar=true
+	var objectVar={numberVar,stringVar}
+	var car
+	var arrayEx=["apple","banada","mango"]
+	var dicSample={}
+		dicSample["animal"]="dog"
+		dicSample["fruit"]="apple"
+		dicSample["sport"]="tennis"
+		console.log(numberVar,stringVar,booleanVar,objectVar,car,arrayEx,dicSample)
+	//sample if / else
+	var x=100
+	var y=200
+	if (x>y) {
+			console.log("Correct")
+		}
+		else {
+			console.log("Wrong")
+		}
+	// functions
+	function one(par1,par2) {
+			var par1=30;
+			var par2=50;            
+            console.log(x+y);        
+        return one;
+    	}
+    	var two=one()
+    // arrays
+    var ary=["a","b","c","d","f"]
+        ary.unshift("aa")
+        ary.push("ff")
+        ary.splice(2,0,"add1","add2")
+        ary.splice(5,1)
+        console.log(ary)
+	// for
+		var forEx=""
+		for (i=0;i<ary.length;i++) {
+		forEx+=ary[i]
+		console.log(forEx)
+		}
+	// for/in
+		forinSample={ymon:"jan",cmon:"feb",nmon:"mar"}
+		forinEx=""
+		for (h in forinSample) {
+			forinEx+=forinSample[h]
+			console.log(forinEx)
+		}
+	// while
+		var whileEx=0
+		var f=0
+		while(f<7) {
+			whileEx+=f
+			f++
+		}
+		console.log(whileEx)
+	// do while
+		var dowhileEx=0
+		var g=0
+		do {
+			dowhileEx+=g
+			g++
+		}
+		while(g<5)
+		console.log(dowhileEx)
+	// forEach
+		var ary2=["car","bus","taxi","airplane"]
+		function func2(tport) {
+		console.log(tport)
+		}
+		ary2.forEach(func2)
+
+
+
+
+
+
+
+
+
+	/* function Espresso() {
+		this.cost=2500
+		this.getCost=function() {
+			return this.cost
+		}
+	}
+	let espresso=new Espresso()
+	console.log(espresso) */
+
+
+	
+
+
+
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Calculator</title>
+<script type="text/javascript" src="Calculator.js"></script>
+<link rel="stylesheet" type="text/css" href="Calculator.css">
+</head>
+<body>
+<form id="cal">
+	<table border="1" id="tb">
+		<th colspan="4"><input type="text" id="calResult"></th>
+		<tr align="center">
+			<td><input type="button" id="btn7" value="7" onclick="myFunc('7')"></td>
+			<td><input type="button" id="btn8" value="8" onclick="myFunc('8')"></td>
+			<td><input type="button" id="btn9" value="9" onclick="myFunc('9')"></td>
+			<td><input type="button" id="btnD" value="/" onclick="myFunc('/')"></td>
+		</tr>
+		<tr align="center">
+			<td><input type="button" id="btn4" value="4" onclick="myFunc('4')"></td>
+			<td><input type="button" id="btn5" value="5" onclick="myFunc('5')"></td>
+			<td><input type="button" id="btn6" value="6" onclick="myFunc('6')"></td>
+			<td><input type="button" id="btnM" value="*" onclick="myFunc('*')"></td>
+		</tr>
+		<tr align="center">
+			<td><input type="button" id="btn1" value="1" onclick="myFunc('1')"></td>
+			<td><input type="button" id="btn2" value="2" onclick="myFunc('2')"></td>
+			<td><input type="button" id="btn3" value="3" onclick="myFunc('3')"></td>
+			<td><input type="button" id="btnS" value="-" onclick="myFunc('-')"></td>
+		</tr>
+		<tr align="center">
+			<td><input type="reset" id="btnC" value="C" onclick="clear()"></td>
+			<td><input type="button" id="btn0" value="0" onclick="myFunc('0')"></td>
+			<td><input type="button" id="btnE" value="=" onclick="calculate()"></td>
+			<td><input type="button" id="btnP" value="+" onclick="myFunc('+')"></td>
+		</tr>
+	</table>
+		<input type="hidden" id="calResultHidden">
+</form>
+</body>
+</html>

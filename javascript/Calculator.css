@@ -1,0 +1,160 @@
+#btn1 {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}
+#btn2 {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}	
+#btn3 {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}	
+#btn4 {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}
+#btn5 {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}	
+#btn6 {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}	
+#btn7 {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}
+#btn8 {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}	
+#btn9 {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}
+#btn0 {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}	
+#btnD {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}	
+#btnM {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}	
+#btnP {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}	
+#btnS {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}	
+#btnE {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}	
+#btnC {
+	border-style: solid;
+	background-position: left;
+	background-color: darkgreen;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 5px;
+}	
+#tb {
+	border-style: solid;
+	border-spacing:0px;
+	table-layout: fixed;
+	width: 170px;
+	border-radius: 5px;
+}
+#calResult {
+	width: 150px;
+	height: 25px;
+	font-size: 12pt;
+	background-color: black;
+	color: white;
+	padding-left: 10px;
+	border-radius: 5px;
+}
