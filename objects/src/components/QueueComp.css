@@ -1,0 +1,51 @@
+.aaa {
+    font-weight: bolder;
+    padding-right: 10px;
+    margin: 0px;
+    margin-bottom: 7px;
+    font-size: 14pt;
+    color: rgb(124, 169, 206);
+}
+
+.btn3 {
+    height: 30px;
+    width: 150px;
+    margin: 3px;
+    border: solid white 2px;
+    border-radius: 5px;
+    color: white;
+    background-color: #282c34;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.btn3:hover {
+    transform: scale(0.95);
+}
+
+.myCard {  
+    border: 2px solid skyblue;
+	border-radius: 50px;
+	justify-content: center;
+    margin: 5px;
+    font-size: 12pt;
+}
+
+.qComp {
+	display: flex;
+    background-color: #282c34;
+    color: white;
+    display: flex-wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.queueContainer {
+    display: fixed;
+    flex-direction: row;
+    border: 2px solid rgb(238, 240, 163);
+    margin: 10px;
+    border-radius: 15px;
+    padding: 10px;
+    justify-content: center;
+}
