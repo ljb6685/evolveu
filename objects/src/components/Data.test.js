@@ -30,7 +30,4 @@ test('Test the Data functions', () => {
     expect(dataTest.data[3]).toBe()
     expect(dataTest.data[4]).toBe()
     console.log('lifo data -->', dataTest.data)
-
-
-
 })
