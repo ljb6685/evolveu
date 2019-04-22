@@ -1,0 +1,177 @@
+.aaa {
+    font-weight: bolder;
+    padding-right: 10px;
+    margin: 0px;
+    margin-bottom: 7px;
+    font-size: 14pt;
+    color: rgb(124, 169, 206);
+}
+
+.bbb {
+    font-weight: bolder;
+    padding-right: 10px;
+    margin: 0px;
+    margin-bottom: 7px;
+    font-size: 14pt;
+    color: violet;
+}
+
+.btn2 {
+    height: 30px;
+    width: 150px;
+    margin: 3px;
+    border: solid white 2px;
+    border-radius: 5px;
+    color: white;
+    background-color: #282c34;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.btn2:hover {
+    transform: scale(0.95);
+}
+
+.btnPop {
+    height: 25px;
+    width: 120px;
+    margin: 3px;
+    border: solid white 2px;
+    border-radius: 5px;
+    color: white;
+    background-color: #282c34;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.cityCard {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgb(238, 240, 163);
+    margin: 10px;
+    border-radius: 15px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.cityContainer {        
+    height: 230px;
+    width: 320px;
+    position: absolute;
+    top: calc(50vh - (/* height */230px / 2));
+    left: calc(50vw - (/* width */320px / 2));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid rgb(238, 240, 163);    
+    border-radius: 10px;
+} 
+
+.cityHistory {
+    display: fixed;
+    flex-direction: column;
+    border: 2px solid skyblue;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.cityPopup {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: black;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.citySummary {
+    display:flex;
+    flex-direction: row-reverse;
+    align-items: top;
+    justify-content: center;
+}
+
+.Comp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #282c34;
+    min-height: 100vh;
+    color: white;  
+}
+
+.ctInput {
+    color: #282c34;
+    border: solid #282c34 2px;
+    border-radius: 5px;
+    height: 35px;
+    width: 250px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 2px;
+    padding-left: 10px;
+}
+
+.popInput {
+    color: #282c34;
+    border: solid #282c34 2px;
+    border-radius: 5px;
+    height: 25px;
+    width: 150px;
+    text-align: left;
+    font-size: 16px;
+    font-weight: bolder;
+    margin: 2px;
+    padding-left: 10px;
+}
+
+.statusResult {
+    font-weight: bolder;
+    padding-right: 10px;
+    margin: 0px;
+    margin-bottom: 7px;
+    font-size: 14pt;
+    color: orange;
+}
+
+.statusTitle {
+    font-weight: bolder;
+    padding-right: 10px;
+    margin: 0px;
+    margin-bottom: 7px;
+    font-size: 14pt;
+    color: lightyellow;
+}
+
+.updated {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+}
+
+#createCity {
+    height: 40px;
+    width: 200px;
+    border: solid white 2px;
+    border-radius: 5px;
+    color: white;
+    background-color: #282c34;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: bolder;
+    transition: all .2s ease-in-out;
+}
+
+#createCity:hover {
+    transform: scale(1.05);
+} 
