@@ -3,6 +3,7 @@ import MathComp from './MathComp';
 import AccountComp from './AccountComp.js';
 import CityComp from './CityComp.js';
 import ListComp from './ListComp.js';
+import QueueComp from './QueueComp.js';
 
 class Icon extends React.Component {
     constructor() {
@@ -33,6 +34,9 @@ class Icon extends React.Component {
         else if (this.clickIcon === 'list') {
             myPage = <ListComp />
         }
+        else if (this.clickIcon === 'queue') {
+            myPage = <QueueComp />
+        }
         
         return (
             <div>
@@ -47,7 +51,8 @@ class Icon extends React.Component {
                     src='https://www.iconinteractive.com/wp-content/uploads/2015/12/AA_Icon.gif' />
                     <img alt='list' className='logo' onClick={this.handleClick}
                     src='https://www.iconinteractive.com/wp-content/uploads/2015/12/Mobile_Icon.gif' />
-                
+                    <img alt='queue' className='logo' onClick={this.handleClick}
+                    src='https://www.iconinteractive.com/wp-content/uploads/2015/12/Creative_Icon.gif' />
                 </div>    
                 <div>
                     {myPage}
