@@ -1,0 +1,304 @@
+Data 1 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 2 ---> {'CLASS': 'Residential', 'SECTOR': 'EAST'}
+Data 3 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 4 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTH'}
+Data 5 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 6 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 7 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 8 ---> {'CLASS': 'Industrial', 'SECTOR': 'CENTRE'}
+Data 9 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'EAST'}
+Data 10 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTHWEST'}
+Data 11 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 12 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 13 ---> {'CLASS': 'Industrial', 'SECTOR': 'SOUTHEAST'}
+Data 14 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 15 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 16 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 17 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTHEAST'}
+Data 18 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 19 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 20 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 21 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 22 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 23 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTHEAST'}
+Data 24 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 25 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 26 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 27 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 28 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 29 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 30 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 31 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 32 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTHEAST'}
+Data 33 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 34 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTHEAST'}
+Data 35 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 36 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 37 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTH'}
+Data 38 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 39 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 40 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 41 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 42 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 43 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 44 ---> {'CLASS': 'Industrial', 'SECTOR': 'SOUTHEAST'}
+Data 45 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 46 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 47 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 48 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTH'}
+Data 49 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 50 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 51 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 52 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTHWEST'}
+Data 53 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 54 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 55 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTH'}
+Data 56 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 57 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTH'}
+Data 58 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 59 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 60 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'WEST'}
+Data 61 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHWEST'}
+Data 62 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 63 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 64 ---> {'CLASS': 'Major Park', 'SECTOR': 'WEST'}
+Data 65 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 66 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTHWEST'}
+Data 67 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTH'}
+Data 68 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 69 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 70 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 71 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 72 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 73 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 74 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 75 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTH'}
+Data 76 ---> {'CLASS': 'Residential', 'SECTOR': 'EAST'}
+Data 77 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 78 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTHEAST'}
+Data 79 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 80 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 81 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'EAST'}
+Data 82 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 83 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTHEAST'}
+Data 84 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 85 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 86 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 87 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 88 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 89 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTHEAST'}
+Data 90 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 91 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 92 ---> {'CLASS': 'Residential', 'SECTOR': 'EAST'}
+Data 93 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 94 ---> {'CLASS': 'Industrial', 'SECTOR': 'CENTRE'}
+Data 95 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 96 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 97 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTHEAST'}
+Data 98 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 99 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTHEAST'}
+Data 100 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 101 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 102 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTHEAST'}
+Data 103 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 104 ---> {'CLASS': 'Industrial', 'SECTOR': 'SOUTH'}
+Data 105 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 106 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTH'}
+Data 107 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 108 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 109 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 110 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 111 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTHEAST'}
+Data 112 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 113 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 114 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 115 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 116 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 117 ---> {'CLASS': 'Industrial', 'SECTOR': 'SOUTH'}
+Data 118 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 119 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 120 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTHEAST'}
+Data 121 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTHEAST'}
+Data 122 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 123 ---> {'CLASS': 'Industrial', 'SECTOR': 'CENTRE'}
+Data 124 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTH'}
+Data 125 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTH'}
+Data 126 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 127 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 128 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 129 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 130 ---> {'CLASS': 'Residential', 'SECTOR': 'EAST'}
+Data 131 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'EAST'}
+Data 132 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 133 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 134 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTHWEST'}
+Data 135 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 136 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 137 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'WEST'}
+Data 138 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 139 ---> {'CLASS': 'Residential', 'SECTOR': 'EAST'}
+Data 140 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 141 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 142 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 143 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 144 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 145 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 146 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 147 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTHEAST'}
+Data 148 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 149 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 150 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 151 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 152 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 153 ---> {'CLASS': 'Major Park', 'SECTOR': 'SOUTH'}
+Data 154 ---> {'CLASS': 'Industrial', 'SECTOR': 'EAST'}
+Data 155 ---> {'CLASS': 'Industrial', 'SECTOR': 'CENTRE'}
+Data 156 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 157 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 158 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 159 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 160 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 161 ---> {'CLASS': 'Industrial', 'SECTOR': 'EAST'}
+Data 162 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 163 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 164 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 165 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 166 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 167 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'WEST'}
+Data 168 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 169 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 170 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 171 ---> {'CLASS': 'Residential', 'SECTOR': 'EAST'}
+Data 172 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 173 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTHEAST'}
+Data 174 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 175 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 176 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 177 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 178 ---> {'CLASS': 'Industrial', 'SECTOR': 'CENTRE'}
+Data 179 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 180 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 181 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 182 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 183 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 184 ---> {'CLASS': 'Industrial', 'SECTOR': 'EAST'}
+Data 185 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 186 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTHWEST'}
+Data 187 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 188 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 189 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 190 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 191 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTH'}
+Data 192 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 193 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 194 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 195 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'WEST'}
+Data 196 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 197 ---> {'CLASS': 'Industrial', 'SECTOR': 'EAST'}
+Data 198 ---> {'CLASS': 'Industrial', 'SECTOR': 'SOUTH'}
+Data 199 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTH'}
+Data 200 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 201 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 202 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 203 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 204 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 205 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTH'}
+Data 206 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTHEAST'}
+Data 207 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 208 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 209 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 210 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTH'}
+Data 211 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTHEAST'}
+Data 212 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTHEAST'}
+Data 213 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 214 ---> {'CLASS': 'Major Park', 'SECTOR': 'SOUTH'}
+Data 215 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'CENTRE'}
+Data 216 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 217 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTHEAST'}
+Data 218 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 219 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'EAST'}
+Data 220 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 221 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 222 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 223 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 224 ---> {'CLASS': 'Residential', 'SECTOR': 'EAST'}
+Data 225 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTHEAST'}
+Data 226 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 227 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 228 ---> {'CLASS': 'Residential', 'SECTOR': 'EAST'}
+Data 229 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 230 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 231 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTH'}
+Data 232 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 233 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 234 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 235 ---> {'CLASS': 'Industrial', 'SECTOR': 'EAST'}
+Data 236 ---> {'CLASS': 'Industrial', 'SECTOR': 'EAST'}
+Data 237 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 238 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 239 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 240 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 241 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTHEAST'}
+Data 242 ---> {'CLASS': 'Industrial', 'SECTOR': 'EAST'}
+Data 243 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 244 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 245 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 246 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTHEAST'}
+Data 247 ---> {'CLASS': 'Industrial', 'SECTOR': 'SOUTHEAST'}
+Data 248 ---> {'CLASS': 'Major Park', 'SECTOR': 'NORTHWEST'}
+Data 249 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 250 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTH'}
+Data 251 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 252 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 253 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTH'}
+Data 254 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'WEST'}
+Data 255 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTHEAST'}
+Data 256 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTHEAST'}
+Data 257 ---> {'CLASS': 'Residential', 'SECTOR': 'EAST'}
+Data 258 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 259 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 260 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 261 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 262 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'EAST'}
+Data 263 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 264 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 265 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 266 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'WEST'}
+Data 267 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTH'}
+Data 268 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 269 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Data 270 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 271 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 272 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 273 ---> {'CLASS': 'Residential', 'SECTOR': 'EAST'}
+Data 274 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 275 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 276 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTH'}
+Data 277 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 278 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 279 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 280 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 281 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 282 ---> {'CLASS': 'Industrial', 'SECTOR': 'SOUTHEAST'}
+Data 283 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHEAST'}
+Data 284 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 285 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 286 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 287 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 288 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 289 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'NORTHWEST'}
+Data 290 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTHEAST'}
+Data 291 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTH'}
+Data 292 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 293 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 294 ---> {'CLASS': 'Residential', 'SECTOR': 'NORTHWEST'}
+Data 295 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 296 ---> {'CLASS': 'Industrial', 'SECTOR': 'NORTHEAST'}
+Data 297 ---> {'CLASS': 'Residual Sub Area', 'SECTOR': 'SOUTH'}
+Data 298 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 299 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 300 ---> {'CLASS': 'Residential', 'SECTOR': 'CENTRE'}
+Data 301 ---> {'CLASS': 'Industrial', 'SECTOR': 'EAST'}
+Data 302 ---> {'CLASS': 'Residential', 'SECTOR': 'SOUTH'}
+Data 303 ---> {'CLASS': 'Residential', 'SECTOR': 'WEST'}
+Total: 303
