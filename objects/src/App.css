@@ -79,3 +79,27 @@
   align-items: center;
   justify-content: center;
 }
+
+#btn2 {
+  height: 20px;
+  width: 100px;
+  margin: 5px;
+  border: solid white 2px;
+  border-radius: 5px;
+  color: white;
+  background-color: #282c34;
+  font-size: 12px;
+}
+
+table { 
+  border: solid white 1px;
+  border-collapse: collapse;
+  font-size: 10pt;
+}
+
+td {
+  border: solid white 1px;
+  width: 120px;
+  text-align: center;
+  padding: 3px;
+}
