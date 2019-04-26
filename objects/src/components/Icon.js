@@ -4,6 +4,7 @@ import AccountComp from './AccountComp.js';
 import CityComp from './CityComp.js';
 import ListComp from './ListComp.js';
 import QueueComp from './QueueComp.js';
+import FlaskComp from './FlaskComp.js';
 
 class Icon extends React.Component {
     constructor() {
@@ -20,7 +21,7 @@ class Icon extends React.Component {
     render() {           
         let myPage = <div />
         if (this.clickIcon === 'home') {
-            myPage = null;
+            myPage = <FlaskComp />;
         }
         else if (this.clickIcon === 'calculator') {
             myPage = <MathComp />
