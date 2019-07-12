@@ -1,8 +1,9 @@
 class Node {
-	constructor(subject, amount, forwardNode=null) {
-		this.forwardNode = forwardNode
+	constructor(subject, amount) {
 		this.subject = subject
 		this.amount = amount 
+		this.backwardNode = null
+		this.forwardNode = null
 	}
 
 	show = () => {

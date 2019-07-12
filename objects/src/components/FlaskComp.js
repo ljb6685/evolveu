@@ -21,10 +21,10 @@ class FlaskComp extends Component {
       console.log(excel);
       return <ExcelInfo
       date = {excel.Date}
-      name = {excel.Name}
-      invoice = {excel.Invoice}
+      name = {excel['Client Name']}
+      invoice = {excel['Invoice #']}
       items = {excel.Items}
-      amount = {excel.Amount}
+      amount = {excel['$ Amount']}
       key = {index} />
     })
     return jsonexcelItems
@@ -39,7 +39,7 @@ class FlaskComp extends Component {
           <button id='btn2' onClick={this.callExcel}>Customer List</button>
         </div>
         <div>
-          <table><thead><tr><td>Date</td>
+    <table><thead><tr><td>Data</td>
           <td>Client Name</td>
           <td>Invoice #</td>
           <td>Items</td>

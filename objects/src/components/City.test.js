@@ -10,7 +10,7 @@ test('Test the City functions', () => {
     // show
     expect(cityTest.show()).toBe('Seoul, 37, 127, 10000000')
 	// movedIn	
-    expect(cityTest.movedIn(100)).toBe(10000100)
+    expect(cityTest.movedIn(1000000)).toBe(11000000)
     console.log('movedIn test:', cityTest.population)
     // movedOut
     expect(cityTest.movedOut(2000000)).toBe(9000000)
